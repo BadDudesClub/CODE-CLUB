@@ -3,13 +3,15 @@ using System;
 public interface ITweetStore
 {
     //Create returns the ID of the stored tweet
-    int Create();
+    int Create(ITweet tweet);
     //Read returns the requested Tweet
-    Tweet Read();
+    Tweet Read(int tweetId);
     //Update returns the updated Tweet Object
-    Tweet Update();
+    Tweet Update(ITweet tweet);
     //Delete returns the ID of the deleted Tweet
-    int Delete();
+    int Delete(int tweetId);
+    //Delete returns the ID of the deleted Tweet
+    int Delete(ITweet tweet);
 }
 
 public interface ITweet

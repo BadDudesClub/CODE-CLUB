@@ -1,0 +1,14 @@
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.deps.json
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.runtimeconfig.json
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.runtimeconfig.dev.json
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.pdb
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\obj\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.csprojResolveAssemblyReference.cache
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\obj\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.AssemblyInfo.cs
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\obj\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\obj\Debug\netcoreapp1.1\TwitterGitter.Main.Tests.pdb
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main.Tests\bin\Debug\netcoreapp1.1\TwitterGitter.Main.pdb

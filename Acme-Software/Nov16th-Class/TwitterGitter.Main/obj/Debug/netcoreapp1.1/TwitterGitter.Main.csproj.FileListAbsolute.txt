@@ -1,0 +1,7 @@
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\bin\Debug\netcoreapp1.1\TwitterGitter.Main.deps.json
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\bin\Debug\netcoreapp1.1\TwitterGitter.Main.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\bin\Debug\netcoreapp1.1\TwitterGitter.Main.pdb
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\obj\Debug\netcoreapp1.1\TwitterGitter.Main.csprojResolveAssemblyReference.cache
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\obj\Debug\netcoreapp1.1\TwitterGitter.Main.AssemblyInfo.cs
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\obj\Debug\netcoreapp1.1\TwitterGitter.Main.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Main\obj\Debug\netcoreapp1.1\TwitterGitter.Main.pdb

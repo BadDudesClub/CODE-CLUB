@@ -1,0 +1,7 @@
+C:\repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\bin\Debug\netstandard2.0\TwitterGitter.Contracts.deps.json
+C:\repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\obj\Debug\netstandard2.0\TwitterGitter.Contracts.csprojResolveAssemblyReference.cache
+C:\repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\obj\Debug\netstandard2.0\TwitterGitter.Contracts.AssemblyInfo.cs
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\bin\Debug\netstandard2.0\TwitterGitter.Contracts.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\bin\Debug\netstandard2.0\TwitterGitter.Contracts.pdb
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\obj\Debug\netstandard2.0\TwitterGitter.Contracts.dll
+C:\Repo\mainrepository\CodeClub\Oct25th\TwitterGitter\TwitterGitter.Contracts\obj\Debug\netstandard2.0\TwitterGitter.Contracts.pdb
