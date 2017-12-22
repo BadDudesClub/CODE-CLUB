@@ -23,12 +23,12 @@ namespace NQueens
           throw new NotImplementedException();
       }
 
-      public IBoard PlacePiece(IBoard board, IPiece piece)
+      public IBoard PlacePiece(IBoard board, IPieceType pieceType)
       {
           throw new NotImplementedException();
         }
       
-      public IBoard PlacePiece(IBoard board, int piecesPlaced, IPiece piece)
+      public IBoard PlacePiece(IBoard board, int piecesPlaced, IPieceType pieceType)
       {
          throw new NotImplementedException();
       }

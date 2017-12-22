@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NQueens
 {
-    public interface IPiece
+    public interface IPieceType
     {
         int PieceType { get; }
         

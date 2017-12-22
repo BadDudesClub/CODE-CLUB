@@ -19,6 +19,6 @@ namespace NQueens
 
    public interface IManipulator
    {
-      IBoard PlacePiece(IBoard board, IPiece piece);
+      IBoard PlacePiece(IBoard board, IPieceType pieceType);
    }
 }

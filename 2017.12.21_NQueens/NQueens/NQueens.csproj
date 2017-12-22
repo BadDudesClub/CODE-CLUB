@@ -42,7 +42,7 @@
   <ItemGroup>
     <Compile Include="Board.cs" />
     <Compile Include="IBoard.cs" />
-    <Compile Include="IPiece.cs" />
+    <Compile Include="IPieceType.cs" />
     <Compile Include="PieceRunner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queen.cs" />

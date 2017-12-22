@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace NQueens
 {
-    public class Queen : IPiece
+    public class Queen : IPieceType
     {
         public int PieceType { get; }
 
